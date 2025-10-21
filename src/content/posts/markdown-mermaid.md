@@ -5,7 +5,7 @@ pinned: false
 description: 一个包含 Mermaid 的 Markdown 博客文章简单示例。
 tags: [Markdown, 博客, Mermaid, Firefly]
 category: 文章示例
-draft: false
+draft: true
 ---
 # Markdown 中 Mermaid 图表完整指南
 
@@ -14,9 +14,6 @@ draft: false
 ## 流程图示例
 
 流程图非常适合表示流程或算法步骤。
-
-
-
 
 ```mermaid
 graph TD

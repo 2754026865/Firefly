@@ -6,11 +6,12 @@ description: '了解 Firefly 中的 Markdown 功能'
 image: ''
 tags: [演示, 示例, Markdown, Firefly]
 category: '文章示例'
-draft: false 
+draft: true
 ---
 
 ## GitHub 仓库卡片
-您可以添加链接到 GitHub 仓库的动态卡片，在页面加载时，仓库信息会从 GitHub API 获取。 
+
+您可以添加链接到 GitHub 仓库的动态卡片，在页面加载时，仓库信息会从 GitHub API 获取。
 
 ::github{repo="CuteLeaf/Firefly"}
 
